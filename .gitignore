@@ -1,0 +1,20 @@
+# Build directories
+Debug/
+Release/
+
+# AVR build artifacts
+*.elf
+*.hex
+*.map
+*.eep
+*.lss
+*.srec
+*.o
+*.d
+
+# IDE generated files
+*.atsuo
+
+# Temporary files
+*.tmp
+*~
